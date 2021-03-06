@@ -3,3 +3,6 @@ if user_in < 5:
     print("input less than 5")
 else:
     print("input greater than5")
+
+output=user_in*5
+print(output)
