@@ -4,5 +4,6 @@ if user_in < 5:
 else:
     print("input greater than5")
 
-output=user_in*5
-print(output)
+user2=int(input("any number"))
+
+output=user_in+user2
