@@ -7,3 +7,5 @@ else:
 user2=int(input("any number"))
 
 output=user_in+user2
+
+print(output)
